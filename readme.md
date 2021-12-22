@@ -1,6 +1,1 @@
-# CAUSW Backend
-
-### Environment
-
-- JDK 11.0.9
-- Spring Boot 2.4.1
+육각형 아키텍처를 참고하기 위한 프로젝트
